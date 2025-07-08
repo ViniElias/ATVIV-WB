@@ -1,6 +1,6 @@
 # Requisitos
 
-Node.js: v16.18.126 <br>
+Node.js: v22.14.0 <br>
 Java: JDK 17 ou maior
 
 # Front-end
