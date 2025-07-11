@@ -2,6 +2,7 @@
 
 Node.js: v22.14.0 <br>
 Java: JDK 17 ou maior
+SO: Windows
 
 # Front-end
 
@@ -24,7 +25,7 @@ Clone o repositório do front
 
 ## Instalando
 
-clone o repositório do back
+Clone o repositório do back
 
     git clone https://github.com/gerson-pn/atviv-wb-typescript
     cd atviv-wb-typescript
